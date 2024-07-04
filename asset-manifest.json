@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YSJ/static/css/main.56477676.css",
+    "main.js": "/YSJ/static/js/main.fa486949.js",
+    "static/js/453.f9ffbe36.chunk.js": "/YSJ/static/js/453.f9ffbe36.chunk.js",
+    "static/media/logo.svg": "/YSJ/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YSJ/index.html",
+    "main.56477676.css.map": "/YSJ/static/css/main.56477676.css.map",
+    "main.fa486949.js.map": "/YSJ/static/js/main.fa486949.js.map",
+    "453.f9ffbe36.chunk.js.map": "/YSJ/static/js/453.f9ffbe36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56477676.css",
+    "static/js/main.fa486949.js"
+  ]
+}
